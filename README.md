@@ -4,7 +4,7 @@
 **Course:** Data Visualization and Exploration (COMS4060A/COMS7056A)  
 **Instructor:** Muhammad Nasir  
 **Submission Deadline:** September 7, 2026  
-**Link to OverLeaf Folder:** [**OverLeaf Folder**](https://www.overleaf.com/9586117564gbvjkmmznxjf#c68e3e)
+
 ---
 
 ## 📌 Project Overview
