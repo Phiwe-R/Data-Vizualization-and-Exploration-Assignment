@@ -13,7 +13,9 @@ This repository contains our group's implementation for **Assignment 1**, focusi
 The project delivers:
 1. **`notebook.ipynb`**: A single, clean Jupyter notebook containing sequential code execution and explicit question numbering.
 2. **`report.pdf`**: A formal research document presenting all figures, analyses, and domain interpretations formatted in the **NeurIPS LaTeX** template.
-The report and the notebook are found in the Final Work Folder
+
+Please Note : The report and the notebook are found in the Final Work Folder
+
 ---
 
 ## 👥 Team Roles & Task Distribution
