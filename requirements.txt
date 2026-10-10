@@ -1,0 +1,30 @@
+#In case anyone would like to use their own dependencies they're familiar with, please update this file
+
+# Data Manipulation & Core Analytics
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Scientific Computing & Numerical Optimization
+scipy>=1.10.0
+
+# Machine Learning & Modeling (Section 4.2 - Random Forest)
+scikit-learn>=1.3.0
+
+# Data Visualization & Plotting (Sections 1.1, 1.2, 3, 4.2, 4.3)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# String Parsing & Regular Expressions (Section 2 - URL/Currency Extraction)
+regex>=2023.5.5
+
+# Interactive Development & Environment
+jupyterlab>=4.0.0
+notebook>=7.0.0
+
+# Utility & Progress Tracking
+tqdm>=4.65.0
+
+#For installation of the required packages, you can use the following command:
+
+# pip install -r requirements.txt
+

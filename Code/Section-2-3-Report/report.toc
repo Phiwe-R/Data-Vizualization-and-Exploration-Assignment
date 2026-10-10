@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Data Preparation}{2}{section.2}%
+\contentsline {section}{\numberline {3}Feature Engineering}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Currency extraction}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Numerical monetary features}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Parsing vehicle and user information from URLs}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Conversion from imperial to metric units}{3}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Vehicle Exploration Data Analysis}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Unique users by currency}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}App popularity over time}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Vehicle age distribution without an age restriction}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Vehicle age distribution restricted to 50 years}{6}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Popular vehicle makes}{7}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Most popular vehicle models}{8}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Discussion}{9}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{10}{section.6}%

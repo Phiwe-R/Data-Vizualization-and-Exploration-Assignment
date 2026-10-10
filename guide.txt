@@ -1,0 +1,13 @@
+.
+├── data/
+│   └── logbook_assignment1.csv    # Raw dataset (Not pushed to remote if restricted)
+├── notebook.ipynb                  # Primary submission notebook containing all code & plots
+├── report/
+│   ├── main.tex                    # NeurIPS LaTeX source file
+│   ├── neurips_2024.sty            # NeurIPS style file
+│   ├── references.bib              # Bibliography file
+│   └── figures/                    # Exported plots from notebook.ipynb
+├── report.pdf                      # Formatted submission PDF report
+└── README.md                       # Project management & role documentation
+
+# After Coding your segment, you can put the file.py/.inbpy anywhere before compilation or on Code/
