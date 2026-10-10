@@ -7,13 +7,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This repository contains our group's implementation for **Assignment 1**, focusing on cleaning, feature engineering, and extracting insights from a messy, user-submitted global fuel logs dataset (`logbook_assignment1.csv`). 
 
 The project delivers:
 1. **`notebook.ipynb`**: A single, clean Jupyter notebook containing sequential code execution and explicit question numbering.
 2. **`report.pdf`**: A formal research document presenting all figures, analyses, and domain interpretations formatted in the **NeurIPS LaTeX** template.
-
+The report and the notebook are found in the Final Work Folder
 ---
 
 ## 👥 Team Roles & Task Distribution
@@ -22,7 +22,7 @@ Total Assessment Marks: **105 Marks**
 
 ---
 
-### 🟢 Person 1: Data Preprocessing & Cleaning (28 Marks)
+### 🟢 Person 1 (Bonolo Lebepe): Data Preprocessing & Cleaning (28 Marks)
 **Focus:** Data pipeline ingestion, string parsing, datatype conversions, missing value handling, and baseline summary statistics.
 
 * **Section 1.1 — Date Fields [7 Marks]**
@@ -40,7 +40,7 @@ Total Assessment Marks: **105 Marks**
 
 ---
 
-### 🔵 Person 2: Feature Engineering & Global Fleet Exploration (22 Marks)
+### 🔵 Person 2 ( Adivhaho Nevondo): Feature Engineering & Global Fleet Exploration (22 Marks)
 **Focus:** Regex extraction, unit standardization, and macroeconomic/global-scale fleet visualization.
 
 * **Section 2 — Feature Engineering [12 Marks]**
@@ -56,7 +56,7 @@ Total Assessment Marks: **105 Marks**
 
 ---
 
-### 🟣 Person 3: Outlier Removal & Advanced Modeling (28 Marks)
+### 🟣 Person 3 (Tebogo Seopa): Outlier Removal & Advanced Modeling (28 Marks)
 **Focus:** Multi-currency anomaly detection, missed fill-up logic, feature interactions, and ML feature importance.
 
 * **Section 4.1 — Outlier Removal [13 Marks]**
@@ -73,7 +73,7 @@ Total Assessment Marks: **105 Marks**
 
 ---
 
-### 🟡 Person 4: Localized Case Studies & Report Compilation (27 Marks)
+### 🟡 Person 4 (Simphiwe Rasenyalo - Group Lead) : Behavioural Case Studies & Report Compilation (27 Marks)
 **Focus:** Vehicle sanity benchmarks, South African economic/behavioral analysis, and NeurIPS LaTeX integration.
 
 * **Section 4.2 — Fuel Efficiency (Part 2) [11 Marks]**
